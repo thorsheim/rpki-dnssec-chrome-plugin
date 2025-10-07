@@ -1,6 +1,3 @@
-# rpki-dnssec-chrome-plugin
-Antrophic Claude "vibe" coded plugin for Chrome to check if a website is protected by DNSSEC &amp; RPKI for BGP. USE AT YOUR OWN RISK!
----------------------------
 # RPKI & DNSSEC Checker Chrome Extension
 
 A secure Chrome extension that checks if the current website's IP address is protected by RPKI (Resource Public Key Infrastructure) and DNSSEC, with comprehensive security hardening against common web vulnerabilities.
